@@ -1,19 +1,19 @@
 # Site settings
-title: Lokmont
+title: Slythmoon
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://slythmoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: Wellcome to slthmoon
+hero-description: 환영합니다. 20190976 박민희의 블로그 입니다.
 
 # Author - Creator
-author-name: Ben Campbell
+author-name: Park min-hee
 author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
+about-author: My name is Park min-hee. I'm an student. Nice to meet you ^.^
+author-email: slythmoon@sungkyul.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
 author-instagram: https://www.instagram.com/
