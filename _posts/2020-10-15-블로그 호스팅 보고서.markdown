@@ -1,12 +1,50 @@
 ---
 layout: post
-title: 블로그 호스팅 보고서
-date: 2020-10-15 17:33:28 +0300
-img: 19.jpg
+title:  블로그 호스팅 보고서
+date:   2029-10-15 10:12:27 +0300
+img: 7.jpg
 tags: post
 ---
-깃허브를 이용한 보고서
-Semiotics pickled next level, drinking vinegar tbh truffaut raclette cliche four loko thundercats master cleanse kombucha deep v. Enamel pin authentic sartorial, bitters paleo taiyaki vegan salvia. Sriracha knausgaard deep v, irony ramps hammock YOLO raclette. Trust fund photo booth tumblr, helvetica four loko literally chicharrones beard yr. Cronut PBR&B XOXO palo santo tbh craft beer, crucifix tumblr. Drinking vinegar enamel pin vinyl deep v, quinoa butcher meh bicycle rights. Jianbing neutra iceland salvia ennui. Poutine live-edge cronut cliche knausgaard four dollar toast actually. Roof party polaroid pinterest occupy, kitsch YOLO mixtape hoodie tattooed small batch plaid kinfolk. Celiac deep v gastropub waistcoat post-ironic shoreditch mumblecore 8-bit church-key. Try-hard PBR&B aesthetic quinoa, trust fund lomo poke. Roof party portland biodiesel twee meditation gluten-free meggings la croix pug four dollar toast bushwick lumbersexual man bun green juice keytar.
+
+
+## *GITHUB*
+깃허브는 분산 버전 관리 툴인 깃(Git)을 사용하는 프로젝트를 지원하는 웹 호스팅 서비스이다. Github는 영리적인 서비스와 오픈소스를 위한 무상 서비스를 제공한다. 나는 이번 과제를 이 깃허브 라는 서비스를 사용했다. 
+
+깃(Git)이 텍스트 명령어 입력 방식인데 반해, 깃허브는 화려한 그래픽 유저 인터페이스를 제공한다. 이것이 깃과 깃허브의 차이점이다. 
+
+깃허브에서 사용 가능한 테마는 크게 eleventry, hexo, jekyll이 있는데 나는 이중 jekyll을 사용했다.
+
+
+_ _ _
+
+
+## *GITHUB를 선택한 이유*
+내가 깃허브와 지킬을 선택한 이유는 다음과 같다.
+1. 지킬을 사용하는 블로깅은 ==markdown== 파일 형식을 사용한다. 
+> markdown 형식은 html 보다 간단하고 이해하기 쉽다. html에 직접 글를 작성하는 것보다 markdown으로 글을 쓰는 것이 더 간편하다는 의미이다. markdown은 간단하기 때문에 배우기도 쉽다. markdown 포맷에 대한 지식이 없는 나도 금방 배울 수 있었다. 보통 블로그 플랫폼에서 제공하는 에디터보다 markdown 작성이 더 쉽다. 
+
+2. GitHub에는 매우 다양한 ==무료 테마(theme==)들이 오픈 소스로 공개되어 있다
+>물론 유료 버전이 무료 버전보다 완성도가 높은 것은 사실이지만, 훌륭한 무료 버전도 많았으며 테마 없이 하나부터 열까지 직접 제작하는 것 보다 훨씬 유용했다. 이런 테마를 다운로드하여 직접 커스터마이징 하는 것 또한 가능하다.
+
+
+_ _ _
+## *HarooPad*
+markdown 문서를 활용하기 위해 가장 쉽게 접근하는 방법은 마크다운 전용 에디터를 사용하는 것이다.
+현존하는 많은 마크다운 에디터가 유통되고 있는데, 내가 markdown 문서를 나의 홈페이지에 업로드 하기 위해 사용한 프로그램은 바로 ==하루패드==다. 마크다운 사용법 가이드가 옆쪽에 나와있어 마크다운에 대한 지식이 없던 나에게 도움이 되어주었기 때문이다.
+
+_ _ _
+### *과제를 마치며 ...*
+
+
+
+
+
+
+
+
+
+
+
 
 ### You need a little dummy text
 
@@ -26,12 +64,12 @@ Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic me
 
 Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
 
-Bushwick try-hard occupy crucifix before they sold out craft beer. Mixtape brooklyn roof party tilde vape. Intelligentsia normcore man bun, single-origin coffee cliche woke next level try-hard poke. Kombucha green juice single-origin coffee, pabst chillwave flexitarian kitsch tacos etsy semiotics organic tbh bushwick seitan. Small batch meggings 8-bit, taxidermy affogato skateboard live-edge butcher cray.
-> Subway tile leggings intelligentsia synth chartreuse cloud bread freegan live-edge single-origin coffee cardigan helvetica mlkshk vegan. Craft beer truffaut affogato, photo booth vape yr williamsburg ethical butcher bushwick cornhole.
+> Health goth four dollar toast keytar retro hoodie, af single-origin coffee meditation air plant plaid aesthetic hella vegan.
 
-Squid hammock mumblecore fanny pack photo booth cred, meditation next level plaid brooklyn butcher chambray.
-Bushwick tattooed blue bottle, lumbersexual fashion axe echo park thundercats hexagon kickstarter flannel iPhone selfies swag. Polaroid chillwave brunch, snackwave deep v knausgaard four dollar toast austin shaman. Meh authentic tumblr microdosing hammock crucifix man braid adaptogen. Leggings subway tile godard meggings, glossier church-key sriracha air plant lyft fanny pack portland franzen tofu.
+Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
 
-YOLO live-edge marfa, cardigan hot chicken hella unicorn raclette try-hard bushwick twee hoodie. Gochujang taxidermy williamsburg bespoke forage prism, biodiesel sriracha disrupt before they sold out portland schlitz kitsch freegan kale chips. Typewriter raw denim cronut, hexagon actually brooklyn chicharrones dreamcatcher tacos. Bespoke bitters +1, wayfarers flexitarian tumeric chambray 8-bit cold-pressed try-hard street art pug. Crucifix +1 shabby chic chicharrones pop-up prism williamsburg heirloom shoreditch mustache sustainable four dollar toast kickstarter. Thundercats four dollar toast drinking vinegar bitters. +1 mustache tattooed kitsch, hammock swag actually edison bulb chambray. Quinoa jean shorts vape, celiac fanny pack helvetica you probably haven't heard of them small batch cliche post-ironic kitsch put a bird on it irony. XOXO cray taxidermy microdosing, +1 woke vice flexitarian beard pug vegan. Flannel health goth swag tofu distillery skateboard. Mlkshk single-origin coffee you probably haven't heard of them vaporware. Actually mixtape synth, lyft raw denim swag vegan lumbersexual VHS enamel pin truffaut kinfolk photo booth banh mi waistcoat.
+Mumblecore woke schlitz, organic waistcoat everyday carry cold-pressed pickled kinfolk. Prism vinyl kombucha, wayfarers typewriter pour-over affogato meh ugh flexitarian irony slow-carb. 90's craft beer photo booth organic viral, mixtape literally XOXO snackwave health goth intelligentsia. Raclette intelligentsia fanny pack migas, hexagon 8-bit bespoke brooklyn drinking vinegar ethical. Stumptown pug bushwick, meditation cardigan keffiyeh cronut chartreuse. Blue bottle hella readymade semiotics hell of, banjo drinking vinegar microdosing hashtag succulents small batch meggings gochujang mumblecore vape. Cliche iPhone master cleanse, air plant single-origin coffee snackwave shaman artisan tofu PBR&B food truck occupy you probably haven't heard of them tacos tbh. Humblebrag locavore activated charcoal sartorial asymmetrical. 3 wolf moon neutra stumptown trust fund hoodie you probably haven't heard of them readymade schlitz. Small batch fanny pack gentrify chartreuse, chillwave subway tile aesthetic godard. Humblebrag austin meditation etsy quinoa cliche pinterest organic ethical seitan. Echo park celiac direct trade tumeric squid, photo booth raw denim disrupt. Bicycle rights four dollar toast tacos intelligentsia biodiesel. Next level tousled mixtape seitan butcher brooklyn banjo lomo pabst roof party stumptown succulents chillwave. Man bun succulents viral fingerstache tofu.
 
-Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic.
+Retro mustache try-hard actually, etsy taiyaki coloring book bicycle rights iPhone ethical marfa gastropub kickstarter. Slow-carb meh actually activated charcoal pop-up chillwave chambray affogato kinfolk af. Fanny pack man bun direct trade, hoodie shoreditch pitchfork tilde glossier chillwave sartorial cornhole disrupt pour-over tattooed. Hoodie drinking vinegar vaporware deep v readymade. Swag +1 vaporware leggings art party. Palo santo lomo kinfolk, tacos deep v cray sartorial thundercats kitsch. Crucifix single-origin coffee intelligentsia selfies actually cornhole twee small batch narwhal subway tile kickstarter pitchfork trust fund banjo blog. Sriracha activated charcoal umami banh mi. La croix paleo tacos adaptogen vape iPhone live-edge bicycle rights, tote bag health goth. Raclette portland tumblr messenger bag. Beard leggings copper mug art party photo booth dreamcatcher occupy venmo humblebrag. Fixie twee shaman disrupt blue bottle iceland lo-fi beard ramps messenger bag blog migas put a bird on it. Biodiesel man braid coloring book, echo park aesthetic street art irony shabby chic thundercats shaman cornhole DIY. Fingerstache blue bottle brunch, woke schlitz pug synth blog plaid.
+
+Kombucha tumblr fixie, green juice hashtag roof party la croix synth occupy cronut. 3 wolf moon meh DIY pop-up edison bulb fam blog. Gentrify readymade health goth green juice everyday carry. Meh poutine poke you probably haven't heard of them kitsch. Photo booth 90's lo-fi ennui truffaut. Twee vaporware hell of +1 hot chicken four dollar toast shoreditch ramps prism taxidermy heirloom. Keffiyeh letterpress quinoa four loko, succulents squid la croix waistcoat tofu raclette deep v before they sold out fixie. Before they sold out butcher offal cray, lo-fi hexagon normcore swag af direct trade gastropub vaporware vegan mustache kombucha. Prism readymade enamel pin church-key, iPhone gochujang yuccie. Viral 8-bit pinterest kinfolk jianbing. Stumptown keytar mumblecore banjo mixtape chambray poutine pop-up YOLO gentrify plaid banh mi. Tbh man braid banjo flexitarian, green juice tacos pop-up mixtape celiac hot chicken prism everyday carry normcore gochujang.
